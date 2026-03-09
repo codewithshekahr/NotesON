@@ -22,12 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-
 # Local Notes Data (Large Files)
 /public/all year notes
 /build_tree.js
 node_modules
 dist
 dist-ssr
-/src/components/pages/subjects/hierarchicalData.json
-/src/components/pages/subjects/notesData.json

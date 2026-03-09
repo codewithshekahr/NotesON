@@ -1,0 +1,4343 @@
+{
+  "ece": {
+    "3": [
+      {
+        "id": "FILE-3-0",
+        "name": "1700647592440_Constructor.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/c++/1700647592440_Constructor.pdf"
+      },
+      {
+        "id": "FILE-3-1",
+        "name": "2020-Data Structure Using C++ Nov-Dec (ACTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/c++/2020-Data Structure Using C++ Nov-Dec (ACTE).pdf"
+      },
+      {
+        "id": "FILE-3-2",
+        "name": "2021-Data Structure Using C-- Nov-Dec (ACTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/c++/2021-Data Structure Using C-- Nov-Dec (ACTE).pdf"
+      },
+      {
+        "id": "FILE-3-3",
+        "name": "2022-Data Structure Using C++ Nov-Dec (ACTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/c++/2022-Data Structure Using C++ Nov-Dec (ACTE).pdf"
+      },
+      {
+        "id": "FILE-3-4",
+        "name": "2022-Data Structure Using C-- Apr-May. (AICTE) .pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/c++/2022-Data Structure Using C-- Apr-May. (AICTE) .pdf"
+      },
+      {
+        "id": "FILE-3-5",
+        "name": "BST.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/c++/BST.pdf"
+      },
+      {
+        "id": "FILE-3-6",
+        "name": "class and object.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/c++/class and object.pdf"
+      },
+      {
+        "id": "FILE-3-7",
+        "name": "friend.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/c++/friend.pdf"
+      },
+      {
+        "id": "FILE-3-8",
+        "name": "LINK LIST.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/c++/LINK LIST.pdf"
+      },
+      {
+        "id": "FILE-3-9",
+        "name": "QUEUE.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/c++/QUEUE.pdf"
+      },
+      {
+        "id": "FILE-3-10",
+        "name": "QUEUE1.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/c++/QUEUE1.pdf"
+      },
+      {
+        "id": "FILE-3-11",
+        "name": "Sorting1.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/c++/Sorting1.pdf"
+      },
+      {
+        "id": "FILE-3-12",
+        "name": "unit 3-1-1.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/c++/unit 3-1-1.pdf"
+      },
+      {
+        "id": "FILE-3-13",
+        "name": "unit 4 .pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/c++/unit 4 .pdf"
+      },
+      {
+        "id": "FILE-3-14",
+        "name": "2020 Nov-Dec Digital System Design (AICTE) .pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/dsd/2020 Nov-Dec Digital System Design (AICTE) .pdf"
+      },
+      {
+        "id": "FILE-3-15",
+        "name": "2021 Digital System Design Nov-Dec (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/dsd/2021 Digital System Design Nov-Dec (AICTE).pdf"
+      },
+      {
+        "id": "FILE-3-16",
+        "name": "2022 Digital System Design Apr-May (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/dsd/2022 Digital System Design Apr-May (AICTE).pdf"
+      },
+      {
+        "id": "FILE-3-17",
+        "name": "2022 Digital System Design Nov-Dec (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/dsd/2022 Digital System Design Nov-Dec (AICTE).pdf"
+      },
+      {
+        "id": "FILE-3-18",
+        "name": "2023 Apr-May- Digital System Design (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/dsd/2023 Apr-May- Digital System Design (AICTE).pdf"
+      },
+      {
+        "id": "FILE-3-19",
+        "name": "Class Test 2 (DSD 3rd Sem ET&T) (9th Feb Wednesday).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/dsd/Class Test 2 (DSD 3rd Sem ET&T) (9th Feb Wednesday).pdf"
+      },
+      {
+        "id": "FILE-3-20",
+        "name": "DSD GA U1&U2.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/dsd/DSD GA U1&U2.pdf"
+      },
+      {
+        "id": "FILE-3-21",
+        "name": "DSD GA U3&U5.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/dsd/DSD GA U3&U5.pdf"
+      },
+      {
+        "id": "FILE-3-22",
+        "name": "2019-Electronic Devices & Circuits.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/edc/2019-Electronic Devices & Circuits.pdf"
+      },
+      {
+        "id": "FILE-3-23",
+        "name": "2020-Electronic Devices Nov-Dec (AICTE)  .pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/edc/2020-Electronic Devices Nov-Dec (AICTE)  .pdf"
+      },
+      {
+        "id": "FILE-3-24",
+        "name": "2021-Apr-May-Electronic Devices & Circuits .pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/edc/2021-Apr-May-Electronic Devices & Circuits .pdf"
+      },
+      {
+        "id": "FILE-3-25",
+        "name": "2021-Electronic Devices Nov-Dec (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/edc/2021-Electronic Devices Nov-Dec (AICTE).pdf"
+      },
+      {
+        "id": "FILE-3-26",
+        "name": "2022-Electronic Devices Nov-Dec(AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/edc/2022-Electronic Devices Nov-Dec(AICTE).pdf"
+      },
+      {
+        "id": "FILE-3-27",
+        "name": "2023 Apr-May- Electronic Devices (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/edc/2023 Apr-May- Electronic Devices (AICTE).pdf"
+      },
+      {
+        "id": "FILE-3-28",
+        "name": "3rd sem CT2.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/edc/3rd sem CT2.pdf"
+      },
+      {
+        "id": "FILE-3-29",
+        "name": "Electronic Device  (1) (1).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/edc/Electronic Device  (1) (1).pdf"
+      },
+      {
+        "id": "FILE-3-30",
+        "name": "Electronic Devices Notes (1).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/edc/Electronic Devices Notes (1).pdf"
+      },
+      {
+        "id": "FILE-3-31",
+        "name": "ET&T 3rd sem syllabus.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/edc/ET&T 3rd sem syllabus.pdf"
+      },
+      {
+        "id": "FILE-3-32",
+        "name": "unit -4 EDC notes .pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/edc/unit -4 EDC notes .pdf"
+      },
+      {
+        "id": "FILE-3-33",
+        "name": "unit -5 EDC notes .pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/edc/unit -5 EDC notes .pdf"
+      },
+      {
+        "id": "FILE-3-34",
+        "name": "2020-Nov-Dec- Mathematics-III (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/m3/2020-Nov-Dec- Mathematics-III (AICTE).pdf"
+      },
+      {
+        "id": "FILE-3-35",
+        "name": "2021-Apr-May- Mathematics-III (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/m3/2021-Apr-May- Mathematics-III (AICTE).pdf"
+      },
+      {
+        "id": "FILE-3-36",
+        "name": "2022-Apr. May Mathematics-III (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/m3/2022-Apr. May Mathematics-III (AICTE).pdf"
+      },
+      {
+        "id": "FILE-3-37",
+        "name": "2023 Apr-May- Mathematics-III (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/m3/2023 Apr-May- Mathematics-III (AICTE).pdf"
+      },
+      {
+        "id": "FILE-3-38",
+        "name": "ass1-1.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/m3/ass1-1.pdf"
+      },
+      {
+        "id": "FILE-3-39",
+        "name": "ass2-1.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/m3/ass2-1.pdf"
+      },
+      {
+        "id": "FILE-3-40",
+        "name": "ass3-1.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/m3/ass3-1.pdf"
+      },
+      {
+        "id": "FILE-3-41",
+        "name": "ass4-1 (1).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/m3/ass4-1 (1).pdf"
+      },
+      {
+        "id": "FILE-3-42",
+        "name": "ass5.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/m3/ass5.pdf"
+      },
+      {
+        "id": "FILE-3-43",
+        "name": "DOC-20231025-WA0015..pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/m3/DOC-20231025-WA0015..pdf"
+      },
+      {
+        "id": "FILE-3-44",
+        "name": "M3 ESE 2023.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/m3/M3 ESE 2023.pdf"
+      },
+      {
+        "id": "FILE-3-45",
+        "name": "M3 QB UNIT 2.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/m3/M3 QB UNIT 2.pdf"
+      },
+      {
+        "id": "FILE-3-46",
+        "name": "2020 Nov-Dec-Network Theory (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/nt/2020 Nov-Dec-Network Theory (AICTE).pdf"
+      },
+      {
+        "id": "FILE-3-47",
+        "name": "2021 Network Theory Nov-Dec-(AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/nt/2021 Network Theory Nov-Dec-(AICTE).pdf"
+      },
+      {
+        "id": "FILE-3-48",
+        "name": "2022 Nov-Dec-Network Theory (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/nt/2022 Nov-Dec-Network Theory (AICTE).pdf"
+      },
+      {
+        "id": "FILE-3-49",
+        "name": "2023 Apr-May- Network Theory (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/nt/2023 Apr-May- Network Theory (AICTE).pdf"
+      },
+      {
+        "id": "FILE-3-50",
+        "name": "NETWORK THEORY.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/3sem/nt/NETWORK THEORY.pdf"
+      }
+    ],
+    "4": [
+      {
+        "id": "FILE-4-0",
+        "name": "2021-Apr. May Analog Circuits (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/4th sem/AC/2021-Apr. May Analog Circuits (AICTE).pdf"
+      },
+      {
+        "id": "FILE-4-1",
+        "name": "2021-Nov-Dec-Analog Circuits (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/4th sem/AC/2021-Nov-Dec-Analog Circuits (AICTE).pdf"
+      },
+      {
+        "id": "FILE-4-2",
+        "name": "2022-Apr. May Analog Circuits-(AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/4th sem/AC/2022-Apr. May Analog Circuits-(AICTE).pdf"
+      },
+      {
+        "id": "FILE-4-3",
+        "name": "2023 Apr-May-Analog Circuits (AICTE ).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/4th sem/AC/2023 Apr-May-Analog Circuits (AICTE ).pdf"
+      },
+      {
+        "id": "FILE-4-4",
+        "name": "2023-Nov-Dec-Analog Circuits (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/4th sem/AC/2023-Nov-Dec-Analog Circuits (AICTE).pdf"
+      },
+      {
+        "id": "FILE-4-5",
+        "name": "ac 1,2 ....pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/4th sem/AC/ac 1,2 ....pdf"
+      },
+      {
+        "id": "FILE-4-6",
+        "name": "AC GA U1.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/4th sem/AC/AC GA U1.pdf"
+      },
+      {
+        "id": "FILE-4-7",
+        "name": "DocScanner Apr 28, 2024 1-12 PM.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/4th sem/AC/DocScanner Apr 28, 2024 1-12 PM.pdf"
+      },
+      {
+        "id": "FILE-4-8",
+        "name": "New Doc 06-12-2024 13.45.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/4th sem/AC/New Doc 06-12-2024 13.45.pdf"
+      },
+      {
+        "id": "FILE-4-9",
+        "name": "unit 4.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/4th sem/AC/unit 4.pdf"
+      },
+      {
+        "id": "FILE-4-10",
+        "name": "unit 5.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/4th sem/AC/unit 5.pdf"
+      },
+      {
+        "id": "FILE-4-11",
+        "name": "Amplitude Modulation.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/4th sem/ACO/1@2/Amplitude Modulation.pdf"
+      },
+      {
+        "id": "FILE-4-12",
+        "name": "Bandwidth passband bandpass.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/4th sem/ACO/1@2/Bandwidth passband bandpass.pdf"
+      },
+      {
+        "id": "FILE-4-13",
+        "name": "Basics of communication.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/4th sem/ACO/1@2/Basics of communication.pdf"
+      },
+      {
+        "id": "FILE-4-14",
+        "name": "Classification Of Electronic Communication.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/4th sem/ACO/1@2/Classification Of Electronic Communication.pdf"
+      },
+      {
+        "id": "FILE-4-15",
+        "name": "Classification of Signal.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/4th sem/ACO/1@2/Classification of Signal.pdf"
+      },
+      {
+        "id": "FILE-4-16",
+        "name": "Convolution.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/4th sem/ACO/1@2/Convolution.pdf"
+      },
+      {
+        "id": "FILE-4-17",
+        "name": "2020-Analog Communication (New).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/4th sem/ACO/2020-Analog Communication (New).pdf"
+      },
+      {
+        "id": "FILE-4-18",
+        "name": "2021-Apr-May Analog Communication (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/4th sem/ACO/2021-Apr-May Analog Communication (AICTE).pdf"
+      },
+      {
+        "id": "FILE-4-19",
+        "name": "2021-Nov-Dec-Analog Communication (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/4th sem/ACO/2021-Nov-Dec-Analog Communication (AICTE).pdf"
+      },
+      {
+        "id": "FILE-4-20",
+        "name": "2022-Analog Communication-Apr. May (New).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/4th sem/ACO/2022-Analog Communication-Apr. May (New).pdf"
+      },
+      {
+        "id": "FILE-4-21",
+        "name": "2022-Apr-May Analog Communication (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/4th sem/ACO/2022-Apr-May Analog Communication (AICTE).pdf"
+      },
+      {
+        "id": "FILE-4-22",
+        "name": "A Com GA U1.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/4th sem/ACO/A Com GA U1.pdf"
+      },
+      {
+        "id": "FILE-4-23",
+        "name": "A Com GA U3.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/4th sem/ACO/A Com GA U3.pdf"
+      },
+      {
+        "id": "FILE-4-24",
+        "name": "A Com GA U5..pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/4th sem/ACO/A Com GA U5..pdf"
+      },
+      {
+        "id": "FILE-4-25",
+        "name": "ACOM UNIT 2.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/4th sem/ACO/ACOM UNIT 2.pdf"
+      },
+      {
+        "id": "FILE-4-26",
+        "name": "CT-1 4th sem.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/4th sem/CT-1 4th sem.pdf"
+      },
+      {
+        "id": "FILE-4-27",
+        "name": "New Doc 04-08-2024 09.10.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/4th sem/New Doc 04-08-2024 09.10.pdf"
+      },
+      {
+        "id": "FILE-4-28",
+        "name": "shekhar kashyap 4th sem.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/4th sem/shekhar kashyap 4th sem.pdf"
+      },
+      {
+        "id": "FILE-4-29",
+        "name": "WhatsApp Image 2024-05-15 at 08.27.56_71aaa345.jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/4th sem/WhatsApp Image 2024-05-15 at 08.27.56_71aaa345.jpg"
+      },
+      {
+        "id": "FILE-4-30",
+        "name": "WhatsApp Image 2024-05-15 at 08.27.56_b7fd70ff.jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/4th sem/WhatsApp Image 2024-05-15 at 08.27.56_b7fd70ff.jpg"
+      }
+    ],
+    "5": [
+      {
+        "id": "FILE-5-0",
+        "name": "260360960-Analogue-Filter-Design.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/notes/260360960-Analogue-Filter-Design.pdf"
+      },
+      {
+        "id": "FILE-5-1",
+        "name": "CN in 5 hours.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/notes/CN in 5 hours.pdf"
+      },
+      {
+        "id": "FILE-5-2",
+        "name": "COMPUTER NETWORKS (R18A0518).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/notes/COMPUTER NETWORKS (R18A0518).pdf"
+      },
+      {
+        "id": "FILE-5-3",
+        "name": "Cs CHAP-3_4 AT49C.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/notes/cs/Cs CHAP-3_4 AT49C.pdf"
+      },
+      {
+        "id": "FILE-5-4",
+        "name": "CS UNIT 1.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/notes/cs/CS UNIT 1.pdf"
+      },
+      {
+        "id": "FILE-5-5",
+        "name": "cs unit 3.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/notes/cs/cs unit 3.pdf"
+      },
+      {
+        "id": "FILE-5-6",
+        "name": "cs unit1.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/notes/cs/cs unit1.pdf"
+      },
+      {
+        "id": "FILE-5-7",
+        "name": "state space analysis (CS) .pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/notes/cs/state space analysis (CS) .pdf"
+      },
+      {
+        "id": "FILE-5-8",
+        "name": "ADM..pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/notes/DC/2done/ADM..pdf"
+      },
+      {
+        "id": "FILE-5-9",
+        "name": "Delta modulation.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/notes/DC/2done/Delta modulation.pdf"
+      },
+      {
+        "id": "FILE-5-10",
+        "name": "DPCM.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/notes/DC/2done/DPCM.pdf"
+      },
+      {
+        "id": "FILE-5-11",
+        "name": "Error in DM And SNR In DM.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/notes/DC/2done/Error in DM And SNR In DM.pdf"
+      },
+      {
+        "id": "FILE-5-12",
+        "name": "PCM-PCMTDM-SNR PCM.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/notes/DC/2done/PCM-PCMTDM-SNR PCM.pdf"
+      },
+      {
+        "id": "FILE-5-13",
+        "name": "Quantization Numerical.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/notes/DC/2done/Quantization Numerical.pdf"
+      },
+      {
+        "id": "FILE-5-14",
+        "name": "Quantization.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/notes/DC/2done/Quantization.pdf"
+      },
+      {
+        "id": "FILE-5-15",
+        "name": "Line Code And Psd.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/notes/DC/3done/Line Code And Psd.pdf"
+      },
+      {
+        "id": "FILE-5-16",
+        "name": "Probability Of Error.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/notes/DC/3done/Probability Of Error.pdf"
+      },
+      {
+        "id": "FILE-5-17",
+        "name": "Pulse Shaping And isi.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/notes/DC/3done/Pulse Shaping And isi.pdf"
+      },
+      {
+        "id": "FILE-5-18",
+        "name": "Scrambler.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/notes/DC/3done/Scrambler.pdf"
+      },
+      {
+        "id": "FILE-5-19",
+        "name": "ASK.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/notes/DC/4done/ASK.pdf"
+      },
+      {
+        "id": "FILE-5-20",
+        "name": "DPSK.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/notes/DC/4done/DPSK.pdf"
+      },
+      {
+        "id": "FILE-5-21",
+        "name": "FSK modulation.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/notes/DC/4done/FSK modulation.pdf"
+      },
+      {
+        "id": "FILE-5-22",
+        "name": "Mary Psk.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/notes/DC/4done/Mary Psk.pdf"
+      },
+      {
+        "id": "FILE-5-23",
+        "name": "PSK..pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/notes/DC/4done/PSK..pdf"
+      },
+      {
+        "id": "FILE-5-24",
+        "name": "Qpsk 1.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/notes/DC/4done/Qpsk 1.pdf"
+      },
+      {
+        "id": "FILE-5-25",
+        "name": "Signal Space Representation 1.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/notes/DC/4done/Signal Space Representation 1.pdf"
+      },
+      {
+        "id": "FILE-5-26",
+        "name": "unit4.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/notes/DC/4done/unit4.pdf"
+      },
+      {
+        "id": "FILE-5-27",
+        "name": "Acquisition of DSSS.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/notes/DC/5/Acquisition of DSSS.pdf"
+      },
+      {
+        "id": "FILE-5-28",
+        "name": "Acquistion And Tracking Of FH.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/notes/DC/5/Acquistion And Tracking Of FH.pdf"
+      },
+      {
+        "id": "FILE-5-29",
+        "name": "DSSS.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/notes/DC/5/DSSS.pdf"
+      },
+      {
+        "id": "FILE-5-30",
+        "name": "FHSS.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/notes/DC/5/FHSS.pdf"
+      },
+      {
+        "id": "FILE-5-31",
+        "name": "PN Sequence.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/notes/DC/5/PN Sequence.pdf"
+      },
+      {
+        "id": "FILE-5-32",
+        "name": "Spread Spectrum .pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/notes/DC/5/Spread Spectrum .pdf"
+      },
+      {
+        "id": "FILE-5-33",
+        "name": "Tracking of DSSS.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/notes/DC/5/Tracking of DSSS.pdf"
+      },
+      {
+        "id": "FILE-5-34",
+        "name": "Aliasing.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/notes/DC/Aliasing.pdf"
+      },
+      {
+        "id": "FILE-5-35",
+        "name": "Bandpass Signal Sampling And Numerical.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/notes/DC/Bandpass Signal Sampling And Numerical.pdf"
+      },
+      {
+        "id": "FILE-5-36",
+        "name": "Digital Communication.pptx",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/notes/DC/Digital Communication.pptx"
+      },
+      {
+        "id": "FILE-5-37",
+        "name": "Numerical Sampling.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/notes/DC/Numerical Sampling.pdf"
+      },
+      {
+        "id": "FILE-5-38",
+        "name": "PAM TDM.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/notes/DC/PAM TDM.pdf"
+      },
+      {
+        "id": "FILE-5-39",
+        "name": "PWM PPM.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/notes/DC/PWM PPM.pdf"
+      },
+      {
+        "id": "FILE-5-40",
+        "name": "Sampling (1).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/notes/DC/Sampling (1).pdf"
+      },
+      {
+        "id": "FILE-5-41",
+        "name": "Sampling Techniques (2).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/notes/DC/Sampling Techniques (2).pdf"
+      },
+      {
+        "id": "FILE-5-42",
+        "name": "T1 -T2-T3 lines.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/notes/DC/T1 -T2-T3 lines.pdf"
+      },
+      {
+        "id": "FILE-5-43",
+        "name": "dc&cs.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/notes/dc&cs.pdf"
+      },
+      {
+        "id": "FILE-5-44",
+        "name": "dec notes.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/notes/dec notes.pdf"
+      },
+      {
+        "id": "FILE-5-45",
+        "name": "dec unit 4.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/notes/dec unit 4.pdf"
+      },
+      {
+        "id": "FILE-5-46",
+        "name": "dec unit 5.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/notes/dec unit 5.pdf"
+      },
+      {
+        "id": "FILE-5-47",
+        "name": "DEC Unit-3 Filter Design Notes.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/notes/DEC Unit-3 Filter Design Notes.pdf"
+      },
+      {
+        "id": "FILE-5-48",
+        "name": "dec.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/notes/dec.pdf"
+      },
+      {
+        "id": "FILE-5-49",
+        "name": "mazidi.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/notes/mazidi.pdf"
+      },
+      {
+        "id": "FILE-5-50",
+        "name": "Dco.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/practical/Dco.pdf"
+      },
+      {
+        "id": "FILE-5-51",
+        "name": "dco1-10.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/practical/dco1-10.pdf"
+      },
+      {
+        "id": "FILE-5-52",
+        "name": "DEC Lab Manual 5th sem.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/practical/DEC Lab Manual 5th sem.pdf"
+      },
+      {
+        "id": "FILE-5-53",
+        "name": "Dec1-8.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/practical/Dec1-8.pdf"
+      },
+      {
+        "id": "FILE-5-54",
+        "name": "mces.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/practical/mces.pdf"
+      },
+      {
+        "id": "FILE-5-55",
+        "name": "2021-Computer Network Nov-Dec (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/pyq/cn/2021-Computer Network Nov-Dec (AICTE).pdf"
+      },
+      {
+        "id": "FILE-5-56",
+        "name": "2022-Computer Network Apr-May (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/pyq/cn/2022-Computer Network Apr-May (AICTE).pdf"
+      },
+      {
+        "id": "FILE-5-57",
+        "name": "2023-Computer Network Nov-Dec (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/pyq/cn/2023-Computer Network Nov-Dec (AICTE).pdf"
+      },
+      {
+        "id": "FILE-5-58",
+        "name": "2024-Computer Network Apr-May (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/pyq/cn/2024-Computer Network Apr-May (AICTE).pdf"
+      },
+      {
+        "id": "FILE-5-59",
+        "name": "2021-Control System Nov-Dec (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/pyq/cs/2021-Control System Nov-Dec (AICTE).pdf"
+      },
+      {
+        "id": "FILE-5-60",
+        "name": "2022-Control System Apr-May (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/pyq/cs/2022-Control System Apr-May (AICTE).pdf"
+      },
+      {
+        "id": "FILE-5-61",
+        "name": "2023-Control System Apr-May (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/pyq/cs/2023-Control System Apr-May (AICTE).pdf"
+      },
+      {
+        "id": "FILE-5-62",
+        "name": "2023-Control System Nov-Dec (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/pyq/cs/2023-Control System Nov-Dec (AICTE).pdf"
+      },
+      {
+        "id": "FILE-5-63",
+        "name": "2024-Control System Apr-May (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/pyq/cs/2024-Control System Apr-May (AICTE).pdf"
+      },
+      {
+        "id": "FILE-5-64",
+        "name": "2021-Digital Communication-Nov-Dec (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/pyq/dc/2021-Digital Communication-Nov-Dec (AICTE).pdf"
+      },
+      {
+        "id": "FILE-5-65",
+        "name": "2022-Digital Communication- Apr May (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/pyq/dc/2022-Digital Communication- Apr May (AICTE).pdf"
+      },
+      {
+        "id": "FILE-5-66",
+        "name": "2023-Digital Communication Apr-May (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/pyq/dc/2023-Digital Communication Apr-May (AICTE).pdf"
+      },
+      {
+        "id": "FILE-5-67",
+        "name": "2023-Digital Communication-Nov-Dec (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/pyq/dc/2023-Digital Communication-Nov-Dec (AICTE).pdf"
+      },
+      {
+        "id": "FILE-5-68",
+        "name": "2021-Design of Electronics Circuit Nov-Dec (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/pyq/dec/2021-Design of Electronics Circuit Nov-Dec (AICTE).pdf"
+      },
+      {
+        "id": "FILE-5-69",
+        "name": "2022-Design of Electronics Circuit Apr-May (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/pyq/dec/2022-Design of Electronics Circuit Apr-May (AICTE).pdf"
+      },
+      {
+        "id": "FILE-5-70",
+        "name": "2023-Design of Electronics Circuit Apr-May (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/pyq/dec/2023-Design of Electronics Circuit Apr-May (AICTE).pdf"
+      },
+      {
+        "id": "FILE-5-71",
+        "name": "2021-Microcontroller & Embedded System Nov-Dec (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/pyq/mces/2021-Microcontroller & Embedded System Nov-Dec (AICTE).pdf"
+      },
+      {
+        "id": "FILE-5-72",
+        "name": "2022-Microcontroller & Embedded System Apr-May (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/pyq/mces/2022-Microcontroller & Embedded System Apr-May (AICTE).pdf"
+      },
+      {
+        "id": "FILE-5-73",
+        "name": "2023-Microcontroller & Embedded System Nov-Dec (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/pyq/mces/2023-Microcontroller & Embedded System Nov-Dec (AICTE).pdf"
+      },
+      {
+        "id": "FILE-5-74",
+        "name": "qp.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 5/pyq/qp.pdf"
+      }
+    ],
+    "6": [
+      {
+        "id": "FILE-6-0",
+        "name": "8684202505031501366229.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 6/8684202505031501366229.pdf"
+      },
+      {
+        "id": "FILE-6-1",
+        "name": "DOC-20250430-WA0024..pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 6/DOC-20250430-WA0024..pdf"
+      },
+      {
+        "id": "FILE-6-2",
+        "name": "Electronics &amp; Telecommunication-1.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 6/Electronics &amp; Telecommunication-1.pdf"
+      },
+      {
+        "id": "FILE-6-3",
+        "name": "iotass2.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 6/iotass2.pdf"
+      },
+      {
+        "id": "FILE-6-4",
+        "name": "Awp 2.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 6/NOTES/Awp 2.pdf"
+      },
+      {
+        "id": "FILE-6-5",
+        "name": "AWP.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 6/NOTES/AWP.pdf"
+      },
+      {
+        "id": "FILE-6-6",
+        "name": "Digital Signal Processing Notes.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 6/NOTES/Digital Signal Processing Notes.pdf"
+      },
+      {
+        "id": "FILE-6-7",
+        "name": "iotass1.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 6/NOTES/iotass1.pdf"
+      },
+      {
+        "id": "FILE-6-8",
+        "name": "iotass2.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 6/NOTES/iotass2.pdf"
+      },
+      {
+        "id": "FILE-6-9",
+        "name": "layout.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 6/NOTES/layout.pdf"
+      },
+      {
+        "id": "FILE-6-10",
+        "name": "New Doc 02-17-2025 12.48.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 6/NOTES/New Doc 02-17-2025 12.48.pdf"
+      },
+      {
+        "id": "FILE-6-11",
+        "name": "VLSI NOTES.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 6/NOTES/VLSI NOTES.pdf"
+      },
+      {
+        "id": "FILE-6-12",
+        "name": "WhatsApp Image 2025-08-15 at 11.20.21_57f9e5ba.jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 6/NOTES/WhatsApp Image 2025-08-15 at 11.20.21_57f9e5ba.jpg"
+      },
+      {
+        "id": "FILE-6-13",
+        "name": "WSN.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 6/NOTES/WSN.pdf"
+      },
+      {
+        "id": "FILE-6-14",
+        "name": "YuktiVLSI.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 6/NOTES/YuktiVLSI.pdf"
+      },
+      {
+        "id": "FILE-6-15",
+        "name": "Programming In Java.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 6/Programming In Java.pdf"
+      },
+      {
+        "id": "FILE-6-16",
+        "name": "2022-Apr-May-Antenna & Wave Propagation (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 6/PYQ/awp/2022-Apr-May-Antenna & Wave Propagation (AICTE).pdf"
+      },
+      {
+        "id": "FILE-6-17",
+        "name": "2023-Apr-May-Antenna & Wave Propagation (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 6/PYQ/awp/2023-Apr-May-Antenna & Wave Propagation (AICTE).pdf"
+      },
+      {
+        "id": "FILE-6-18",
+        "name": "2024-Apr-May-Antenna & Wave Propagation (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 6/PYQ/awp/2024-Apr-May-Antenna & Wave Propagation (AICTE).pdf"
+      },
+      {
+        "id": "FILE-6-19",
+        "name": "2024-Nov-Dec. Antenna & Wave Propagation (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 6/PYQ/awp/2024-Nov-Dec. Antenna & Wave Propagation (AICTE).pdf"
+      },
+      {
+        "id": "FILE-6-20",
+        "name": "2022-Apr-May-Digital Signal Processing (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 6/PYQ/dsp/2022-Apr-May-Digital Signal Processing (AICTE).pdf"
+      },
+      {
+        "id": "FILE-6-21",
+        "name": "2023 Nov-Dec Digital Signal Processing (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 6/PYQ/dsp/2023 Nov-Dec Digital Signal Processing (AICTE).pdf"
+      },
+      {
+        "id": "FILE-6-22",
+        "name": "2023-Apr-May-Digital Signal Processing (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 6/PYQ/dsp/2023-Apr-May-Digital Signal Processing (AICTE).pdf"
+      },
+      {
+        "id": "FILE-6-23",
+        "name": "2024 Nov-Dec Digital Signal Processing (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 6/PYQ/dsp/2024 Nov-Dec Digital Signal Processing (AICTE).pdf"
+      },
+      {
+        "id": "FILE-6-24",
+        "name": "2024-Apr-May-Digital Signal Processing (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 6/PYQ/dsp/2024-Apr-May-Digital Signal Processing (AICTE).pdf"
+      },
+      {
+        "id": "FILE-6-25",
+        "name": "2022-Apr May-VLSI Design (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 6/PYQ/vlsi/2022-Apr May-VLSI Design (AICTE).pdf"
+      },
+      {
+        "id": "FILE-6-26",
+        "name": "2023-Apr May-VLSI Design (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 6/PYQ/vlsi/2023-Apr May-VLSI Design (AICTE).pdf"
+      },
+      {
+        "id": "FILE-6-27",
+        "name": "2024-Apr May-VLSI Design (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 6/PYQ/vlsi/2024-Apr May-VLSI Design (AICTE).pdf"
+      },
+      {
+        "id": "FILE-6-28",
+        "name": "2024-Nov-Dec. VLSI Design (AICTE)",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 6/PYQ/vlsi/2024-Nov-Dec. VLSI Design (AICTE)"
+      },
+      {
+        "id": "FILE-6-29",
+        "name": "2022-Wireless Sensor Network  Apr-May (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 6/PYQ/wsn/2022-Wireless Sensor Network  Apr-May (AICTE).pdf"
+      },
+      {
+        "id": "FILE-6-30",
+        "name": "2023 Apr-May Wireless Sensor Networks (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 6/PYQ/wsn/2023 Apr-May Wireless Sensor Networks (AICTE).pdf"
+      },
+      {
+        "id": "FILE-6-31",
+        "name": "2023 Nov-Dec Wireless Sensor Networks (1).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 6/PYQ/wsn/2023 Nov-Dec Wireless Sensor Networks (1).pdf"
+      },
+      {
+        "id": "FILE-6-32",
+        "name": "2024 Apr-May Wireless Sensor Networks (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 6/PYQ/wsn/2024 Apr-May Wireless Sensor Networks (AICTE).pdf"
+      },
+      {
+        "id": "FILE-6-33",
+        "name": "shekhar emt.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/sem 6/shekhar emt.pdf"
+      }
+    ],
+    "7": [
+      {
+        "id": "FILE-7-0",
+        "name": "2022-Nov-Dec All Subject QP.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/2022-Nov-Dec All Subject QP.pdf"
+      },
+      {
+        "id": "FILE-7-1",
+        "name": "ASSIGNMENT Crypto -2.doc",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/Cryptography/ASSIGNMENT Crypto -2.doc"
+      },
+      {
+        "id": "FILE-7-2",
+        "name": "Block Cipher Modes of Operation.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/Cryptography/Block Cipher Modes of Operation.pdf"
+      },
+      {
+        "id": "FILE-7-3",
+        "name": "C&NS Assignment_Yukti_Verma.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/Cryptography/C&NS Assignment_Yukti_Verma.pdf"
+      },
+      {
+        "id": "FILE-7-4",
+        "name": "crypto.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/Cryptography/crypto.pdf"
+      },
+      {
+        "id": "FILE-7-5",
+        "name": "Cryptography CT1.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/Cryptography/Cryptography CT1.pdf"
+      },
+      {
+        "id": "FILE-7-6",
+        "name": "Cryptography-and-Network-Security.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/Cryptography/Cryptography-and-Network-Security.pdf"
+      },
+      {
+        "id": "FILE-7-7",
+        "name": "2023 Nov-Dec Cryptography & Network Security.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/Cryptography/pyq/2023 Nov-Dec Cryptography & Network Security.pdf"
+      },
+      {
+        "id": "FILE-7-8",
+        "name": "2024 Apr-May Cryptography & Network Security.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/Cryptography/pyq/2024 Apr-May Cryptography & Network Security.pdf"
+      },
+      {
+        "id": "FILE-7-9",
+        "name": "SHA 1.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/Cryptography/SHA 1.pdf"
+      },
+      {
+        "id": "FILE-7-10",
+        "name": "EC404-Advanced communication systems_Module4.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/EC404-Advanced communication systems_Module4.pdf"
+      },
+      {
+        "id": "FILE-7-11",
+        "name": "Edge and Cloud Computing IOT.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/Edge and Cloud Computing IOT.pdf"
+      },
+      {
+        "id": "FILE-7-12",
+        "name": "I&I Assi 1 2 3.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/I&I Assi 1 2 3.pdf"
+      },
+      {
+        "id": "FILE-7-13",
+        "name": "2023-Instrumentation & IOT-Apr-May (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/ii notes classroom/pyq/2023-Instrumentation & IOT-Apr-May (AICTE).pdf"
+      },
+      {
+        "id": "FILE-7-14",
+        "name": "Instrumentation and IoT Nov-Dec 2023 (1).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/ii notes classroom/pyq/Instrumentation and IoT Nov-Dec 2023 (1).pdf"
+      },
+      {
+        "id": "FILE-7-15",
+        "name": "Iot Apr -May 2025.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/ii notes classroom/pyq/Iot Apr -May 2025.pdf"
+      },
+      {
+        "id": "FILE-7-16",
+        "name": "Capacitive Transducer.pptx",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/ii notes classroom/unit 1/Capacitive Transducer.pptx"
+      },
+      {
+        "id": "FILE-7-17",
+        "name": "LVDT.pptx",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/ii notes classroom/unit 1/LVDT.pptx"
+      },
+      {
+        "id": "FILE-7-18",
+        "name": "Strain Gauge.pptx",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/ii notes classroom/unit 1/Strain Gauge.pptx"
+      },
+      {
+        "id": "FILE-7-19",
+        "name": "transducer.pptx",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/ii notes classroom/unit 1/transducer.pptx"
+      },
+      {
+        "id": "FILE-7-20",
+        "name": "Burdon gauge.pptx",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/ii notes classroom/unit 2/Burdon gauge.pptx"
+      },
+      {
+        "id": "FILE-7-21",
+        "name": "Dead weight piston gauge.pptx",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/ii notes classroom/unit 2/Dead weight piston gauge.pptx"
+      },
+      {
+        "id": "FILE-7-22",
+        "name": "photoelectric transducer.pptx",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/ii notes classroom/unit 2/photoelectric transducer.pptx"
+      },
+      {
+        "id": "FILE-7-23",
+        "name": "Utube.pptx",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/ii notes classroom/unit 2/Utube.pptx"
+      },
+      {
+        "id": "FILE-7-24",
+        "name": "Bimetallic thermometer22.pptx",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/ii notes classroom/unit 3/Bimetallic thermometer22.pptx"
+      },
+      {
+        "id": "FILE-7-25",
+        "name": "Flow measurement.pptx",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/ii notes classroom/unit 3/Flow measurement.pptx"
+      },
+      {
+        "id": "FILE-7-26",
+        "name": "pyrometer.pptx",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/ii notes classroom/unit 3/pyrometer.pptx"
+      },
+      {
+        "id": "FILE-7-27",
+        "name": "RTD22.pptx",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/ii notes classroom/unit 3/RTD22.pptx"
+      },
+      {
+        "id": "FILE-7-28",
+        "name": "Temperature scale.pptx",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/ii notes classroom/unit 3/Temperature scale.pptx"
+      },
+      {
+        "id": "FILE-7-29",
+        "name": "Thermistor.pptx",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/ii notes classroom/unit 3/Thermistor.pptx"
+      },
+      {
+        "id": "FILE-7-30",
+        "name": "thermocouples22.pptx",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/ii notes classroom/unit 3/thermocouples22.pptx"
+      },
+      {
+        "id": "FILE-7-31",
+        "name": "Design model for IOT.docx",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/ii notes classroom/unit 4/Design model for IOT.docx"
+      },
+      {
+        "id": "FILE-7-32",
+        "name": "Design model for IOT.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/ii notes classroom/unit 4/Design model for IOT.pdf"
+      },
+      {
+        "id": "FILE-7-33",
+        "name": "industry 4.0.pptx",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/ii notes classroom/unit 4/industry 4.0.pptx"
+      },
+      {
+        "id": "FILE-7-34",
+        "name": "QOS_Predictive maintainance.pptx",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/ii notes classroom/unit 4/QOS_Predictive maintainance.pptx"
+      },
+      {
+        "id": "FILE-7-35",
+        "name": "UNIT4_predictive maintainance.pptx",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/ii notes classroom/unit 4/UNIT4_predictive maintainance.pptx"
+      },
+      {
+        "id": "FILE-7-36",
+        "name": "IoT Technologies.docx",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/ii notes classroom/unit 5/IoT Technologies.docx"
+      },
+      {
+        "id": "FILE-7-37",
+        "name": "IoT Technologies.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/ii notes classroom/unit 5/IoT Technologies.pdf"
+      },
+      {
+        "id": "FILE-7-38",
+        "name": "PYQ_CT_ESE_204-25.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/PYQ_CT_ESE_204-25.pdf"
+      },
+      {
+        "id": "FILE-7-39",
+        "name": "abcd parameter.html",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/abcd parameter.html"
+      },
+      {
+        "id": "FILE-7-40",
+        "name": "192px.svg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/abcd parameter_files/192px.svg"
+      },
+      {
+        "id": "FILE-7-41",
+        "name": "ad_status.js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/abcd parameter_files/ad_status.js.download"
+      },
+      {
+        "id": "FILE-7-42",
+        "name": "base.js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/abcd parameter_files/base.js.download"
+      },
+      {
+        "id": "FILE-7-43",
+        "name": "bscframe.html",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/abcd parameter_files/bscframe.html"
+      },
+      {
+        "id": "FILE-7-44",
+        "name": "cast_sender(1).js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/abcd parameter_files/cast_sender(1).js.download"
+      },
+      {
+        "id": "FILE-7-45",
+        "name": "cast_sender.js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/abcd parameter_files/cast_sender.js.download"
+      },
+      {
+        "id": "FILE-7-46",
+        "name": "cb=gapi.loaded_0",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/abcd parameter_files/cb=gapi.loaded_0"
+      },
+      {
+        "id": "FILE-7-47",
+        "name": "CwMl7lD5M9c.html",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/abcd parameter_files/CwMl7lD5M9c.html"
+      },
+      {
+        "id": "FILE-7-48",
+        "name": "destination",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/abcd parameter_files/destination"
+      },
+      {
+        "id": "FILE-7-49",
+        "name": "destination(1)",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/abcd parameter_files/destination(1)"
+      },
+      {
+        "id": "FILE-7-50",
+        "name": "embed.js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/abcd parameter_files/embed.js.download"
+      },
+      {
+        "id": "FILE-7-51",
+        "name": "gtm.js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/abcd parameter_files/gtm.js.download"
+      },
+      {
+        "id": "FILE-7-52",
+        "name": "iframe_api",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/abcd parameter_files/iframe_api"
+      },
+      {
+        "id": "FILE-7-53",
+        "name": "js",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/abcd parameter_files/js"
+      },
+      {
+        "id": "FILE-7-54",
+        "name": "lazy.min.js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/abcd parameter_files/lazy.min.js.download"
+      },
+      {
+        "id": "FILE-7-55",
+        "name": "m=hfcr",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/abcd parameter_files/m=hfcr"
+      },
+      {
+        "id": "FILE-7-56",
+        "name": "m=_b",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/abcd parameter_files/m=_b"
+      },
+      {
+        "id": "FILE-7-57",
+        "name": "maxresdefault(1).jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/abcd parameter_files/maxresdefault(1).jpg"
+      },
+      {
+        "id": "FILE-7-58",
+        "name": "maxresdefault.jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/abcd parameter_files/maxresdefault.jpg"
+      },
+      {
+        "id": "FILE-7-59",
+        "name": "remote.js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/abcd parameter_files/remote.js.download"
+      },
+      {
+        "id": "FILE-7-60",
+        "name": "RotateCookiesPage.html",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/abcd parameter_files/RotateCookiesPage.html"
+      },
+      {
+        "id": "FILE-7-61",
+        "name": "rs=AA2YrTua5H2y_CiqILFqrP-1NxZIbU6S_g",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/abcd parameter_files/rs=AA2YrTua5H2y_CiqILFqrP-1NxZIbU6S_g"
+      },
+      {
+        "id": "FILE-7-62",
+        "name": "rs=AA2YrTuH1gsWpNYrZNoVfHgbKLfZrAwkHA",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/abcd parameter_files/rs=AA2YrTuH1gsWpNYrZNoVfHgbKLfZrAwkHA"
+      },
+      {
+        "id": "FILE-7-63",
+        "name": "rWZCpdr4Zt8.html",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/abcd parameter_files/rWZCpdr4Zt8.html"
+      },
+      {
+        "id": "FILE-7-64",
+        "name": "saved_resource.html",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/abcd parameter_files/saved_resource.html"
+      },
+      {
+        "id": "FILE-7-65",
+        "name": "unnamed(1).jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/abcd parameter_files/unnamed(1).jpg"
+      },
+      {
+        "id": "FILE-7-66",
+        "name": "unnamed(2).jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/abcd parameter_files/unnamed(2).jpg"
+      },
+      {
+        "id": "FILE-7-67",
+        "name": "unnamed(3).jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/abcd parameter_files/unnamed(3).jpg"
+      },
+      {
+        "id": "FILE-7-68",
+        "name": "unnamed(4).jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/abcd parameter_files/unnamed(4).jpg"
+      },
+      {
+        "id": "FILE-7-69",
+        "name": "unnamed.jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/abcd parameter_files/unnamed.jpg"
+      },
+      {
+        "id": "FILE-7-70",
+        "name": "www-embed-player-es6.js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/abcd parameter_files/www-embed-player-es6.js.download"
+      },
+      {
+        "id": "FILE-7-71",
+        "name": "www-player.css",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/abcd parameter_files/www-player.css"
+      },
+      {
+        "id": "FILE-7-72",
+        "name": "www-widgetapi.js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/abcd parameter_files/www-widgetapi.js.download"
+      },
+      {
+        "id": "FILE-7-73",
+        "name": "application og vswr.html",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/application og vswr.html"
+      },
+      {
+        "id": "FILE-7-74",
+        "name": "bscframe.html",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/application og vswr_files/bscframe.html"
+      },
+      {
+        "id": "FILE-7-75",
+        "name": "cb=gapi.loaded_0",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/application og vswr_files/cb=gapi.loaded_0"
+      },
+      {
+        "id": "FILE-7-76",
+        "name": "destination",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/application og vswr_files/destination"
+      },
+      {
+        "id": "FILE-7-77",
+        "name": "destination(1)",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/application og vswr_files/destination(1)"
+      },
+      {
+        "id": "FILE-7-78",
+        "name": "gtm.js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/application og vswr_files/gtm.js.download"
+      },
+      {
+        "id": "FILE-7-79",
+        "name": "js",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/application og vswr_files/js"
+      },
+      {
+        "id": "FILE-7-80",
+        "name": "lazy.min.js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/application og vswr_files/lazy.min.js.download"
+      },
+      {
+        "id": "FILE-7-81",
+        "name": "m=hfcr",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/application og vswr_files/m=hfcr"
+      },
+      {
+        "id": "FILE-7-82",
+        "name": "m=_b",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/application og vswr_files/m=_b"
+      },
+      {
+        "id": "FILE-7-83",
+        "name": "RotateCookiesPage.html",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/application og vswr_files/RotateCookiesPage.html"
+      },
+      {
+        "id": "FILE-7-84",
+        "name": "rs=AA2YrTua5H2y_CiqILFqrP-1NxZIbU6S_g",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/application og vswr_files/rs=AA2YrTua5H2y_CiqILFqrP-1NxZIbU6S_g"
+      },
+      {
+        "id": "FILE-7-85",
+        "name": "rs=AA2YrTuH1gsWpNYrZNoVfHgbKLfZrAwkHA",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/application og vswr_files/rs=AA2YrTuH1gsWpNYrZNoVfHgbKLfZrAwkHA"
+      },
+      {
+        "id": "FILE-7-86",
+        "name": "saved_resource.html",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/application og vswr_files/saved_resource.html"
+      },
+      {
+        "id": "FILE-7-87",
+        "name": "unnamed(1).jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/application og vswr_files/unnamed(1).jpg"
+      },
+      {
+        "id": "FILE-7-88",
+        "name": "unnamed(2).jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/application og vswr_files/unnamed(2).jpg"
+      },
+      {
+        "id": "FILE-7-89",
+        "name": "unnamed(3).jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/application og vswr_files/unnamed(3).jpg"
+      },
+      {
+        "id": "FILE-7-90",
+        "name": "unnamed(4).jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/application og vswr_files/unnamed(4).jpg"
+      },
+      {
+        "id": "FILE-7-91",
+        "name": "unnamed.jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/application og vswr_files/unnamed.jpg"
+      },
+      {
+        "id": "FILE-7-92",
+        "name": "Google Gemini ee.html",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/Google Gemini ee.html"
+      },
+      {
+        "id": "FILE-7-93",
+        "name": "bscframe.html",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/Google Gemini ee_files/bscframe.html"
+      },
+      {
+        "id": "FILE-7-94",
+        "name": "cb=gapi.loaded_0",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/Google Gemini ee_files/cb=gapi.loaded_0"
+      },
+      {
+        "id": "FILE-7-95",
+        "name": "destination",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/Google Gemini ee_files/destination"
+      },
+      {
+        "id": "FILE-7-96",
+        "name": "destination(1)",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/Google Gemini ee_files/destination(1)"
+      },
+      {
+        "id": "FILE-7-97",
+        "name": "gtm.js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/Google Gemini ee_files/gtm.js.download"
+      },
+      {
+        "id": "FILE-7-98",
+        "name": "js",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/Google Gemini ee_files/js"
+      },
+      {
+        "id": "FILE-7-99",
+        "name": "lazy.min.js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/Google Gemini ee_files/lazy.min.js.download"
+      },
+      {
+        "id": "FILE-7-100",
+        "name": "m=hfcr",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/Google Gemini ee_files/m=hfcr"
+      },
+      {
+        "id": "FILE-7-101",
+        "name": "m=_b",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/Google Gemini ee_files/m=_b"
+      },
+      {
+        "id": "FILE-7-102",
+        "name": "m=_b,_tp",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/Google Gemini ee_files/m=_b,_tp"
+      },
+      {
+        "id": "FILE-7-103",
+        "name": "RotateCookiesPage.html",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/Google Gemini ee_files/RotateCookiesPage.html"
+      },
+      {
+        "id": "FILE-7-104",
+        "name": "rs=AA2YrTua5H2y_CiqILFqrP-1NxZIbU6S_g",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/Google Gemini ee_files/rs=AA2YrTua5H2y_CiqILFqrP-1NxZIbU6S_g"
+      },
+      {
+        "id": "FILE-7-105",
+        "name": "rs=AA2YrTvcKiXWli20h4OGSvUlhh1qh1qunA",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/Google Gemini ee_files/rs=AA2YrTvcKiXWli20h4OGSvUlhh1qh1qunA"
+      },
+      {
+        "id": "FILE-7-106",
+        "name": "saved_resource(1).html",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/Google Gemini ee_files/saved_resource(1).html"
+      },
+      {
+        "id": "FILE-7-107",
+        "name": "saved_resource.html",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/Google Gemini ee_files/saved_resource.html"
+      },
+      {
+        "id": "FILE-7-108",
+        "name": "unnamed(1).jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/Google Gemini ee_files/unnamed(1).jpg"
+      },
+      {
+        "id": "FILE-7-109",
+        "name": "unnamed(2).jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/Google Gemini ee_files/unnamed(2).jpg"
+      },
+      {
+        "id": "FILE-7-110",
+        "name": "unnamed(3).jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/Google Gemini ee_files/unnamed(3).jpg"
+      },
+      {
+        "id": "FILE-7-111",
+        "name": "unnamed(4).jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/Google Gemini ee_files/unnamed(4).jpg"
+      },
+      {
+        "id": "FILE-7-112",
+        "name": "unnamed(5).jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/Google Gemini ee_files/unnamed(5).jpg"
+      },
+      {
+        "id": "FILE-7-113",
+        "name": "unnamed.jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/Google Gemini ee_files/unnamed.jpg"
+      },
+      {
+        "id": "FILE-7-114",
+        "name": "h parameter.html",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/h parameter.html"
+      },
+      {
+        "id": "FILE-7-115",
+        "name": "192px.svg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/h parameter_files/192px.svg"
+      },
+      {
+        "id": "FILE-7-116",
+        "name": "ad_status.js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/h parameter_files/ad_status.js.download"
+      },
+      {
+        "id": "FILE-7-117",
+        "name": "base.js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/h parameter_files/base.js.download"
+      },
+      {
+        "id": "FILE-7-118",
+        "name": "bRXQfZMzVJY.html",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/h parameter_files/bRXQfZMzVJY.html"
+      },
+      {
+        "id": "FILE-7-119",
+        "name": "bscframe.html",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/h parameter_files/bscframe.html"
+      },
+      {
+        "id": "FILE-7-120",
+        "name": "cast_sender(1).js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/h parameter_files/cast_sender(1).js.download"
+      },
+      {
+        "id": "FILE-7-121",
+        "name": "cast_sender.js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/h parameter_files/cast_sender.js.download"
+      },
+      {
+        "id": "FILE-7-122",
+        "name": "cb=gapi.loaded_0",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/h parameter_files/cb=gapi.loaded_0"
+      },
+      {
+        "id": "FILE-7-123",
+        "name": "destination",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/h parameter_files/destination"
+      },
+      {
+        "id": "FILE-7-124",
+        "name": "destination(1)",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/h parameter_files/destination(1)"
+      },
+      {
+        "id": "FILE-7-125",
+        "name": "embed.js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/h parameter_files/embed.js.download"
+      },
+      {
+        "id": "FILE-7-126",
+        "name": "gtm.js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/h parameter_files/gtm.js.download"
+      },
+      {
+        "id": "FILE-7-127",
+        "name": "iframe_api",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/h parameter_files/iframe_api"
+      },
+      {
+        "id": "FILE-7-128",
+        "name": "js",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/h parameter_files/js"
+      },
+      {
+        "id": "FILE-7-129",
+        "name": "lazy.min.js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/h parameter_files/lazy.min.js.download"
+      },
+      {
+        "id": "FILE-7-130",
+        "name": "m=hfcr",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/h parameter_files/m=hfcr"
+      },
+      {
+        "id": "FILE-7-131",
+        "name": "m=_b",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/h parameter_files/m=_b"
+      },
+      {
+        "id": "FILE-7-132",
+        "name": "maxresdefault.jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/h parameter_files/maxresdefault.jpg"
+      },
+      {
+        "id": "FILE-7-133",
+        "name": "remote.js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/h parameter_files/remote.js.download"
+      },
+      {
+        "id": "FILE-7-134",
+        "name": "RotateCookiesPage.html",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/h parameter_files/RotateCookiesPage.html"
+      },
+      {
+        "id": "FILE-7-135",
+        "name": "rs=AA2YrTua5H2y_CiqILFqrP-1NxZIbU6S_g",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/h parameter_files/rs=AA2YrTua5H2y_CiqILFqrP-1NxZIbU6S_g"
+      },
+      {
+        "id": "FILE-7-136",
+        "name": "rs=AA2YrTuH1gsWpNYrZNoVfHgbKLfZrAwkHA",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/h parameter_files/rs=AA2YrTuH1gsWpNYrZNoVfHgbKLfZrAwkHA"
+      },
+      {
+        "id": "FILE-7-137",
+        "name": "saved_resource.html",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/h parameter_files/saved_resource.html"
+      },
+      {
+        "id": "FILE-7-138",
+        "name": "unnamed(1).jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/h parameter_files/unnamed(1).jpg"
+      },
+      {
+        "id": "FILE-7-139",
+        "name": "unnamed(2).jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/h parameter_files/unnamed(2).jpg"
+      },
+      {
+        "id": "FILE-7-140",
+        "name": "unnamed(3).jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/h parameter_files/unnamed(3).jpg"
+      },
+      {
+        "id": "FILE-7-141",
+        "name": "unnamed(4).jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/h parameter_files/unnamed(4).jpg"
+      },
+      {
+        "id": "FILE-7-142",
+        "name": "unnamed.jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/h parameter_files/unnamed.jpg"
+      },
+      {
+        "id": "FILE-7-143",
+        "name": "www-embed-player-es6.js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/h parameter_files/www-embed-player-es6.js.download"
+      },
+      {
+        "id": "FILE-7-144",
+        "name": "www-player.css",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/h parameter_files/www-player.css"
+      },
+      {
+        "id": "FILE-7-145",
+        "name": "www-widgetapi.js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/h parameter_files/www-widgetapi.js.download"
+      },
+      {
+        "id": "FILE-7-146",
+        "name": "property of s parameters.html",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/property of s parameters.html"
+      },
+      {
+        "id": "FILE-7-147",
+        "name": "192px.svg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/property of s parameters_files/192px.svg"
+      },
+      {
+        "id": "FILE-7-148",
+        "name": "ad_status.js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/property of s parameters_files/ad_status.js.download"
+      },
+      {
+        "id": "FILE-7-149",
+        "name": "base.js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/property of s parameters_files/base.js.download"
+      },
+      {
+        "id": "FILE-7-150",
+        "name": "bscframe.html",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/property of s parameters_files/bscframe.html"
+      },
+      {
+        "id": "FILE-7-151",
+        "name": "cast_sender(1).js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/property of s parameters_files/cast_sender(1).js.download"
+      },
+      {
+        "id": "FILE-7-152",
+        "name": "cast_sender.js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/property of s parameters_files/cast_sender.js.download"
+      },
+      {
+        "id": "FILE-7-153",
+        "name": "cb=gapi.loaded_0",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/property of s parameters_files/cb=gapi.loaded_0"
+      },
+      {
+        "id": "FILE-7-154",
+        "name": "CwMl7lD5M9c.html",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/property of s parameters_files/CwMl7lD5M9c.html"
+      },
+      {
+        "id": "FILE-7-155",
+        "name": "destination",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/property of s parameters_files/destination"
+      },
+      {
+        "id": "FILE-7-156",
+        "name": "destination(1)",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/property of s parameters_files/destination(1)"
+      },
+      {
+        "id": "FILE-7-157",
+        "name": "embed.js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/property of s parameters_files/embed.js.download"
+      },
+      {
+        "id": "FILE-7-158",
+        "name": "gtm.js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/property of s parameters_files/gtm.js.download"
+      },
+      {
+        "id": "FILE-7-159",
+        "name": "iframe_api",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/property of s parameters_files/iframe_api"
+      },
+      {
+        "id": "FILE-7-160",
+        "name": "js",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/property of s parameters_files/js"
+      },
+      {
+        "id": "FILE-7-161",
+        "name": "lazy.min.js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/property of s parameters_files/lazy.min.js.download"
+      },
+      {
+        "id": "FILE-7-162",
+        "name": "m=hfcr",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/property of s parameters_files/m=hfcr"
+      },
+      {
+        "id": "FILE-7-163",
+        "name": "m=_b",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/property of s parameters_files/m=_b"
+      },
+      {
+        "id": "FILE-7-164",
+        "name": "maxresdefault.jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/property of s parameters_files/maxresdefault.jpg"
+      },
+      {
+        "id": "FILE-7-165",
+        "name": "remote.js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/property of s parameters_files/remote.js.download"
+      },
+      {
+        "id": "FILE-7-166",
+        "name": "RotateCookiesPage.html",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/property of s parameters_files/RotateCookiesPage.html"
+      },
+      {
+        "id": "FILE-7-167",
+        "name": "rs=AA2YrTua5H2y_CiqILFqrP-1NxZIbU6S_g",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/property of s parameters_files/rs=AA2YrTua5H2y_CiqILFqrP-1NxZIbU6S_g"
+      },
+      {
+        "id": "FILE-7-168",
+        "name": "rs=AA2YrTuH1gsWpNYrZNoVfHgbKLfZrAwkHA",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/property of s parameters_files/rs=AA2YrTuH1gsWpNYrZNoVfHgbKLfZrAwkHA"
+      },
+      {
+        "id": "FILE-7-169",
+        "name": "saved_resource.html",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/property of s parameters_files/saved_resource.html"
+      },
+      {
+        "id": "FILE-7-170",
+        "name": "unnamed(1).jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/property of s parameters_files/unnamed(1).jpg"
+      },
+      {
+        "id": "FILE-7-171",
+        "name": "unnamed(2).jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/property of s parameters_files/unnamed(2).jpg"
+      },
+      {
+        "id": "FILE-7-172",
+        "name": "unnamed(3).jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/property of s parameters_files/unnamed(3).jpg"
+      },
+      {
+        "id": "FILE-7-173",
+        "name": "unnamed(4).jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/property of s parameters_files/unnamed(4).jpg"
+      },
+      {
+        "id": "FILE-7-174",
+        "name": "unnamed.jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/property of s parameters_files/unnamed.jpg"
+      },
+      {
+        "id": "FILE-7-175",
+        "name": "www-embed-player-es6.js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/property of s parameters_files/www-embed-player-es6.js.download"
+      },
+      {
+        "id": "FILE-7-176",
+        "name": "www-player.css",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/property of s parameters_files/www-player.css"
+      },
+      {
+        "id": "FILE-7-177",
+        "name": "www-widgetapi.js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/property of s parameters_files/www-widgetapi.js.download"
+      },
+      {
+        "id": "FILE-7-178",
+        "name": "rf.html",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rf.html"
+      },
+      {
+        "id": "FILE-7-179",
+        "name": "rffff.html",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rffff.html"
+      },
+      {
+        "id": "FILE-7-180",
+        "name": "192px.svg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rffff_files/192px.svg"
+      },
+      {
+        "id": "FILE-7-181",
+        "name": "ad_status.js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rffff_files/ad_status.js.download"
+      },
+      {
+        "id": "FILE-7-182",
+        "name": "base.js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rffff_files/base.js.download"
+      },
+      {
+        "id": "FILE-7-183",
+        "name": "bscframe.html",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rffff_files/bscframe.html"
+      },
+      {
+        "id": "FILE-7-184",
+        "name": "cast_sender(1).js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rffff_files/cast_sender(1).js.download"
+      },
+      {
+        "id": "FILE-7-185",
+        "name": "cast_sender.js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rffff_files/cast_sender.js.download"
+      },
+      {
+        "id": "FILE-7-186",
+        "name": "cb=gapi.loaded_0",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rffff_files/cb=gapi.loaded_0"
+      },
+      {
+        "id": "FILE-7-187",
+        "name": "CwMl7lD5M9c.html",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rffff_files/CwMl7lD5M9c.html"
+      },
+      {
+        "id": "FILE-7-188",
+        "name": "destination",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rffff_files/destination"
+      },
+      {
+        "id": "FILE-7-189",
+        "name": "embed.js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rffff_files/embed.js.download"
+      },
+      {
+        "id": "FILE-7-190",
+        "name": "gtm.js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rffff_files/gtm.js.download"
+      },
+      {
+        "id": "FILE-7-191",
+        "name": "iframe_api",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rffff_files/iframe_api"
+      },
+      {
+        "id": "FILE-7-192",
+        "name": "js",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rffff_files/js"
+      },
+      {
+        "id": "FILE-7-193",
+        "name": "lazy.min.js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rffff_files/lazy.min.js.download"
+      },
+      {
+        "id": "FILE-7-194",
+        "name": "m=hfcr",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rffff_files/m=hfcr"
+      },
+      {
+        "id": "FILE-7-195",
+        "name": "m=_b",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rffff_files/m=_b"
+      },
+      {
+        "id": "FILE-7-196",
+        "name": "maxresdefault(1).jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rffff_files/maxresdefault(1).jpg"
+      },
+      {
+        "id": "FILE-7-197",
+        "name": "maxresdefault.jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rffff_files/maxresdefault.jpg"
+      },
+      {
+        "id": "FILE-7-198",
+        "name": "remote.js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rffff_files/remote.js.download"
+      },
+      {
+        "id": "FILE-7-199",
+        "name": "RotateCookiesPage.html",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rffff_files/RotateCookiesPage.html"
+      },
+      {
+        "id": "FILE-7-200",
+        "name": "rs=AA2YrTua5H2y_CiqILFqrP-1NxZIbU6S_g",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rffff_files/rs=AA2YrTua5H2y_CiqILFqrP-1NxZIbU6S_g"
+      },
+      {
+        "id": "FILE-7-201",
+        "name": "rs=AA2YrTuH1gsWpNYrZNoVfHgbKLfZrAwkHA",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rffff_files/rs=AA2YrTuH1gsWpNYrZNoVfHgbKLfZrAwkHA"
+      },
+      {
+        "id": "FILE-7-202",
+        "name": "rWZCpdr4Zt8.html",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rffff_files/rWZCpdr4Zt8.html"
+      },
+      {
+        "id": "FILE-7-203",
+        "name": "saved_resource.html",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rffff_files/saved_resource.html"
+      },
+      {
+        "id": "FILE-7-204",
+        "name": "unnamed(1).jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rffff_files/unnamed(1).jpg"
+      },
+      {
+        "id": "FILE-7-205",
+        "name": "unnamed(2).jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rffff_files/unnamed(2).jpg"
+      },
+      {
+        "id": "FILE-7-206",
+        "name": "unnamed(3).jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rffff_files/unnamed(3).jpg"
+      },
+      {
+        "id": "FILE-7-207",
+        "name": "unnamed(4).jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rffff_files/unnamed(4).jpg"
+      },
+      {
+        "id": "FILE-7-208",
+        "name": "unnamed.jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rffff_files/unnamed.jpg"
+      },
+      {
+        "id": "FILE-7-209",
+        "name": "www-embed-player-es6.js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rffff_files/www-embed-player-es6.js.download"
+      },
+      {
+        "id": "FILE-7-210",
+        "name": "www-player.css",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rffff_files/www-player.css"
+      },
+      {
+        "id": "FILE-7-211",
+        "name": "www-widgetapi.js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rffff_files/www-widgetapi.js.download"
+      },
+      {
+        "id": "FILE-7-212",
+        "name": "192px.svg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rf_files/192px.svg"
+      },
+      {
+        "id": "FILE-7-213",
+        "name": "ad_status.js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rf_files/ad_status.js.download"
+      },
+      {
+        "id": "FILE-7-214",
+        "name": "base.js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rf_files/base.js.download"
+      },
+      {
+        "id": "FILE-7-215",
+        "name": "bscframe.html",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rf_files/bscframe.html"
+      },
+      {
+        "id": "FILE-7-216",
+        "name": "cast_sender(1).js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rf_files/cast_sender(1).js.download"
+      },
+      {
+        "id": "FILE-7-217",
+        "name": "cast_sender.js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rf_files/cast_sender.js.download"
+      },
+      {
+        "id": "FILE-7-218",
+        "name": "cb=gapi.loaded_0",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rf_files/cb=gapi.loaded_0"
+      },
+      {
+        "id": "FILE-7-219",
+        "name": "CwMl7lD5M9c.html",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rf_files/CwMl7lD5M9c.html"
+      },
+      {
+        "id": "FILE-7-220",
+        "name": "destination",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rf_files/destination"
+      },
+      {
+        "id": "FILE-7-221",
+        "name": "embed.js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rf_files/embed.js.download"
+      },
+      {
+        "id": "FILE-7-222",
+        "name": "gtm.js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rf_files/gtm.js.download"
+      },
+      {
+        "id": "FILE-7-223",
+        "name": "iframe_api",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rf_files/iframe_api"
+      },
+      {
+        "id": "FILE-7-224",
+        "name": "js",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rf_files/js"
+      },
+      {
+        "id": "FILE-7-225",
+        "name": "lazy.min.js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rf_files/lazy.min.js.download"
+      },
+      {
+        "id": "FILE-7-226",
+        "name": "m=hfcr",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rf_files/m=hfcr"
+      },
+      {
+        "id": "FILE-7-227",
+        "name": "m=_b",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rf_files/m=_b"
+      },
+      {
+        "id": "FILE-7-228",
+        "name": "maxresdefault(1).jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rf_files/maxresdefault(1).jpg"
+      },
+      {
+        "id": "FILE-7-229",
+        "name": "maxresdefault.jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rf_files/maxresdefault.jpg"
+      },
+      {
+        "id": "FILE-7-230",
+        "name": "remote.js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rf_files/remote.js.download"
+      },
+      {
+        "id": "FILE-7-231",
+        "name": "RotateCookiesPage.html",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rf_files/RotateCookiesPage.html"
+      },
+      {
+        "id": "FILE-7-232",
+        "name": "rs=AA2YrTua5H2y_CiqILFqrP-1NxZIbU6S_g",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rf_files/rs=AA2YrTua5H2y_CiqILFqrP-1NxZIbU6S_g"
+      },
+      {
+        "id": "FILE-7-233",
+        "name": "rs=AA2YrTuH1gsWpNYrZNoVfHgbKLfZrAwkHA",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rf_files/rs=AA2YrTuH1gsWpNYrZNoVfHgbKLfZrAwkHA"
+      },
+      {
+        "id": "FILE-7-234",
+        "name": "rWZCpdr4Zt8.html",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rf_files/rWZCpdr4Zt8.html"
+      },
+      {
+        "id": "FILE-7-235",
+        "name": "saved_resource.html",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rf_files/saved_resource.html"
+      },
+      {
+        "id": "FILE-7-236",
+        "name": "unnamed(1).jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rf_files/unnamed(1).jpg"
+      },
+      {
+        "id": "FILE-7-237",
+        "name": "unnamed(2).jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rf_files/unnamed(2).jpg"
+      },
+      {
+        "id": "FILE-7-238",
+        "name": "unnamed(3).jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rf_files/unnamed(3).jpg"
+      },
+      {
+        "id": "FILE-7-239",
+        "name": "unnamed(4).jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rf_files/unnamed(4).jpg"
+      },
+      {
+        "id": "FILE-7-240",
+        "name": "unnamed.jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rf_files/unnamed.jpg"
+      },
+      {
+        "id": "FILE-7-241",
+        "name": "www-embed-player-es6.js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rf_files/www-embed-player-es6.js.download"
+      },
+      {
+        "id": "FILE-7-242",
+        "name": "www-player.css",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rf_files/www-player.css"
+      },
+      {
+        "id": "FILE-7-243",
+        "name": "www-widgetapi.js.download",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/rf/rf_files/www-widgetapi.js.download"
+      },
+      {
+        "id": "FILE-7-244",
+        "name": "Gunn Diode +.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/RF and MW/Gunn Diode +.pdf"
+      },
+      {
+        "id": "FILE-7-245",
+        "name": "Gunn Diode.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/RF and MW/Gunn Diode.pdf"
+      },
+      {
+        "id": "FILE-7-246",
+        "name": "Measurement of Power MW.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/RF and MW/Measurement of Power MW.pdf"
+      },
+      {
+        "id": "FILE-7-247",
+        "name": "microwave unit 1.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/RF and MW/microwave unit 1.pdf"
+      },
+      {
+        "id": "FILE-7-248",
+        "name": "microwave unit 2.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/RF and MW/microwave unit 2.pdf"
+      },
+      {
+        "id": "FILE-7-249",
+        "name": "microwave unit 3.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/RF and MW/microwave unit 3.pdf"
+      },
+      {
+        "id": "FILE-7-250",
+        "name": "microwave unit 4.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/RF and MW/microwave unit 4.pdf"
+      },
+      {
+        "id": "FILE-7-251",
+        "name": "microwave unit 5.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/RF and MW/microwave unit 5.pdf"
+      },
+      {
+        "id": "FILE-7-252",
+        "name": "Mw and RF Assignment.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/RF and MW/Mw and RF Assignment.pdf"
+      },
+      {
+        "id": "FILE-7-253",
+        "name": "MW Notes.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/RF and MW/MW Notes.pdf"
+      },
+      {
+        "id": "FILE-7-254",
+        "name": "MW_Solid State Device.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/RF and MW/MW_Solid State Device.pdf"
+      },
+      {
+        "id": "FILE-7-255",
+        "name": "Numerical S matrix.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/RF and MW/Numerical S matrix.pdf"
+      },
+      {
+        "id": "FILE-7-256",
+        "name": "P - i - n Diode.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/RF and MW/P - i - n Diode.pdf"
+      },
+      {
+        "id": "FILE-7-257",
+        "name": "2020 Apr-May-Microwave Communication & Engg.-New",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/RF and MW/pyq/2020 Apr-May-Microwave Communication & Engg.-New"
+      },
+      {
+        "id": "FILE-7-258",
+        "name": "2021 Nov-Dec-Microwave Communication & Engg..pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/RF and MW/pyq/2021 Nov-Dec-Microwave Communication & Engg..pdf"
+      },
+      {
+        "id": "FILE-7-259",
+        "name": "2022 Apr-May-Microwave Communication & Engg.-New.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/RF and MW/pyq/2022 Apr-May-Microwave Communication & Engg.-New.pdf"
+      },
+      {
+        "id": "FILE-7-260",
+        "name": "2023 Nov-Dec ET&T VII RF & Microwave Engg. (1).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/RF and MW/pyq/2023 Nov-Dec ET&T VII RF & Microwave Engg. (1).pdf"
+      },
+      {
+        "id": "FILE-7-261",
+        "name": "2023-RF & Microwave Engg.-Apr-May (AICTE)",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/RF and MW/pyq/2023-RF & Microwave Engg.-Apr-May (AICTE)"
+      },
+      {
+        "id": "FILE-7-262",
+        "name": "2024-RF & Microwave Engg.-Apr-May (AICTE).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/RF and MW/pyq/2024-RF & Microwave Engg.-Apr-May (AICTE).pdf"
+      },
+      {
+        "id": "FILE-7-263",
+        "name": "RF&MW Lab.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/RF and MW/RF&MW Lab.pdf"
+      },
+      {
+        "id": "FILE-7-264",
+        "name": "UHV Assignment.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/UHV Assignment.pdf"
+      },
+      {
+        "id": "FILE-7-265",
+        "name": "2020-Digital circuite design (New).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/Verilog HDL/2020-Digital circuite design (New).pdf"
+      },
+      {
+        "id": "FILE-7-266",
+        "name": "2021 ET&T VII-DCDVHDL (New).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/Verilog HDL/2021 ET&T VII-DCDVHDL (New).pdf"
+      },
+      {
+        "id": "FILE-7-267",
+        "name": "Digital Circuit Design with Verilog HDL.PDF",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/Verilog HDL/Digital Circuit Design with Verilog HDL.PDF"
+      },
+      {
+        "id": "FILE-7-268",
+        "name": "Lexical Convention.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/Verilog HDL/Lexical Convention.pdf"
+      },
+      {
+        "id": "FILE-7-269",
+        "name": "pyqs 2022 and 2024.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/Verilog HDL/pyqs 2022 and 2024.pdf"
+      },
+      {
+        "id": "FILE-7-270",
+        "name": "Unit 3 End sem Codes.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/Verilog HDL/Unit 3 End sem Codes.pdf"
+      },
+      {
+        "id": "FILE-7-271",
+        "name": "WhatsApp Image 2025-12-24 at 11.02.40_1e3eeae9.jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/Verilog HDL/WhatsApp Image 2025-12-24 at 11.02.40_1e3eeae9.jpg"
+      },
+      {
+        "id": "FILE-7-272",
+        "name": "WhatsApp Image 2025-12-24 at 11.02.41_f8e974b4.jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/Verilog HDL/WhatsApp Image 2025-12-24 at 11.02.41_f8e974b4.jpg"
+      },
+      {
+        "id": "FILE-7-273",
+        "name": "2020-Wireless communication .pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/Wireless communication/pyq/2020-Wireless communication .pdf"
+      },
+      {
+        "id": "FILE-7-274",
+        "name": "2021 Wireless Communications.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/Wireless communication/pyq/2021 Wireless Communications.pdf"
+      },
+      {
+        "id": "FILE-7-275",
+        "name": "2022-Apr-May-VII ET&T- Wireless Communications (1).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/Wireless communication/pyq/2022-Apr-May-VII ET&T- Wireless Communications (1).pdf"
+      },
+      {
+        "id": "FILE-7-276",
+        "name": "2023 Nov-Dec ET&T VII Wireless Communication.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/Wireless communication/pyq/2023 Nov-Dec ET&T VII Wireless Communication.pdf"
+      },
+      {
+        "id": "FILE-7-277",
+        "name": "DocScanner 12 Nov 2025 2-04 pm.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/Wireless communication/pyq/DocScanner 12 Nov 2025 2-04 pm.pdf"
+      },
+      {
+        "id": "FILE-7-278",
+        "name": "DocScanner 12 Oct 2025 3-09 pm.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/Wireless communication/pyq/DocScanner 12 Oct 2025 3-09 pm.pdf"
+      },
+      {
+        "id": "FILE-7-279",
+        "name": "DocScanner 30 Nov 2025 6-45 pm.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/Wireless communication/pyq/DocScanner 30 Nov 2025 6-45 pm.pdf"
+      },
+      {
+        "id": "FILE-7-280",
+        "name": "WC ass 1 Suyash.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/Wireless communication/pyq/WC ass 1 Suyash.pdf"
+      },
+      {
+        "id": "FILE-7-281",
+        "name": "WhatsApp Image 2025-12-27 at 12.06.46_6d33a11a.jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/Wireless communication/pyq/WhatsApp Image 2025-12-27 at 12.06.46_6d33a11a.jpg"
+      },
+      {
+        "id": "FILE-7-282",
+        "name": "WhatsApp Image 2025-12-27 at 12.06.47_9680ae78.jpg",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/Wireless communication/pyq/WhatsApp Image 2025-12-27 at 12.06.47_9680ae78.jpg"
+      },
+      {
+        "id": "FILE-7-283",
+        "name": "Traffic routing in WC.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/Wireless communication/Traffic routing in WC.pdf"
+      },
+      {
+        "id": "FILE-7-284",
+        "name": "Unit-IV ( Wireless Communications).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/Wireless communication/Unit-IV ( Wireless Communications).pdf"
+      },
+      {
+        "id": "FILE-7-285",
+        "name": "WC assignment.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/Wireless communication/WC assignment.pdf"
+      },
+      {
+        "id": "FILE-7-286",
+        "name": "WC Numerical.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/Wireless communication/WC Numerical.pdf"
+      },
+      {
+        "id": "FILE-7-287",
+        "name": "WC unit 4.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/Wireless communication/WC unit 4.pdf"
+      },
+      {
+        "id": "FILE-7-288",
+        "name": "Wireless Communication CT1.pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/Wireless communication/Wireless Communication CT1.pdf"
+      },
+      {
+        "id": "FILE-7-289",
+        "name": "Wireless-communication-networks (1).pdf",
+        "type": "Local File",
+        "prof": "Staff",
+        "uploaderId": "local-owner",
+        "uploaderName": "Local Storage",
+        "link": "/all year notes/7 sem/Wireless-communication-networks (1).pdf"
+      }
+    ]
+  }
+}
