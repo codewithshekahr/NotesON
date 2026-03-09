@@ -1,0 +1,269 @@
+/* Subjects.css */
+
+.py-8 {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.mb-2 {
+    margin-bottom: 0.5rem;
+}
+
+.mb-8 {
+    margin-bottom: 2rem;
+}
+
+.mt-3 {
+    margin-top: 0.75rem;
+}
+
+.mt-4 {
+    margin-top: 1rem;
+}
+
+.subjects-layout {
+    background-color: var(--background-color);
+    margin-bottom: auto;
+    /* push footer down */
+}
+
+/* Branch Selection (Level 1) */
+.hierarchy-header {
+    margin-bottom: 3rem;
+}
+
+.branch-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 2rem;
+}
+
+.branch-card {
+    padding: 2.5rem 1.5rem;
+    text-align: center;
+    cursor: pointer;
+    border-bottom: 4px solid transparent;
+    /* default */
+}
+
+.branch-card:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--shadow-xl);
+    border-bottom-color: var(--primary-light);
+}
+
+.branch-card:nth-child(2):hover {
+    border-bottom-color: #8b5cf6;
+}
+
+.branch-card:nth-child(3):hover {
+    border-bottom-color: #f59e0b;
+}
+
+.branch-card:nth-child(4):hover {
+    border-bottom-color: #ef4444;
+}
+
+.branch-card:nth-child(5):hover {
+    border-bottom-color: #10b981;
+}
+
+.branch-card:nth-child(6):hover {
+    border-bottom-color: #06b6d4;
+}
+
+.branch-icon-wrapper {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 1.5rem;
+    transition: transform var(--transition-normal);
+}
+
+.branch-card:hover .branch-icon-wrapper {
+    transform: scale(1.1);
+}
+
+.branch-name {
+    font-size: 1.25rem;
+    color: var(--text-dark);
+}
+
+/* Semester Grid (Level 2) */
+.btn-back {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: var(--text-medium);
+    font-weight: 500;
+    transition: color var(--transition-fast);
+    margin-bottom: 2rem;
+}
+
+.btn-back:hover {
+    color: var(--primary-color);
+}
+
+.semester-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: 1.5rem;
+}
+
+.semester-card {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    padding: 1.5rem;
+    cursor: pointer;
+}
+
+.semester-card:hover {
+    border-color: var(--primary-color);
+    box-shadow: var(--shadow-md);
+    background-color: rgba(13, 71, 161, 0.02);
+}
+
+.sem-number {
+    width: 48px;
+    height: 48px;
+    background-color: var(--primary-color);
+    color: white;
+    border-radius: var(--border-radius-lg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+    font-weight: 800;
+    font-family: var(--font-heading);
+}
+
+.sem-details h3 {
+    font-size: 1.1rem;
+    margin-bottom: 0.2rem;
+}
+
+.text-sm {
+    font-size: 0.85rem;
+}
+
+/* Notes List (Level 3) */
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.search-filter {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: white;
+    padding: 0.75rem 1rem;
+    border-radius: var(--border-radius-md);
+    border: 1px solid var(--border-color);
+    width: 300px;
+}
+
+.search-filter input {
+    border: none;
+    background: transparent;
+    outline: none;
+    width: 100%;
+}
+
+.subjects-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.subject-row {
+    display: flex;
+    align-items: center;
+    padding: 1.5rem;
+    gap: 1.5rem;
+    transition: all 0.2s ease;
+}
+
+.subject-row:hover {
+    transform: translateX(5px);
+    border-left: 4px solid var(--primary-color);
+    box-shadow: var(--shadow-md);
+}
+
+.row-icon {
+    width: 50px;
+    height: 50px;
+    background: rgba(13, 71, 161, 0.05);
+    border-radius: var(--border-radius-md);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.row-content {
+    flex: 1;
+}
+
+.row-title {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 0.25rem;
+}
+
+.badge-type {
+    font-size: 0.75rem;
+    font-weight: 600;
+    background: var(--background-color);
+    padding: 0.2rem 0.6rem;
+    border-radius: var(--border-radius-full);
+    border: 1px solid var(--border-color);
+    color: var(--text-medium);
+}
+
+.row-meta {
+    color: var(--text-medium);
+    font-size: 0.9rem;
+}
+
+.empty-state {
+    text-align: center;
+    padding: 4rem 0;
+    color: var(--text-medium);
+    background: white;
+    border-radius: var(--border-radius-lg);
+    border: 1px dashed var(--border-color);
+}
+
+@media (max-width: 768px) {
+    .header-content {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .search-filter {
+        width: 100%;
+    }
+
+    .subject-row {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 1rem;
+    }
+
+    .row-actions {
+        width: 100%;
+        display: flex;
+    }
+
+    .btn-sm {
+        width: 100%;
+    }
+}

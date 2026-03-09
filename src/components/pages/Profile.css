@@ -1,0 +1,196 @@
+/* Profile.css */
+
+.dashboard-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.dashboard-header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 0.25rem;
+}
+
+.dashboard-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    align-items: start;
+}
+
+.widget-card {
+    padding: 2rem;
+    height: 100%;
+}
+
+.widget-header {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-bottom: 1.5rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.widget-header h2 {
+    font-size: 1.5rem;
+    margin: 0;
+}
+
+.widget-icon {
+    width: 28px;
+    height: 28px;
+}
+
+/* Todo Widget */
+.todo-form {
+    display: flex;
+    gap: 0.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.todo-form input {
+    flex: 1;
+    padding: 0.75rem 1rem;
+    border: 1px solid var(--border-color);
+    border-radius: var(--border-radius-md);
+    outline: none;
+    background: var(--background-color);
+    transition: all var(--transition-fast);
+}
+
+.todo-form input:focus {
+    border-color: var(--primary-light);
+    background: white;
+}
+
+.todo-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.todo-item {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 1rem;
+    background: var(--background-color);
+    border-radius: var(--border-radius-md);
+    border: 1px solid var(--border-color);
+    transition: all 0.2s;
+}
+
+.todo-item:hover {
+    background: white;
+    box-shadow: var(--shadow-sm);
+    border-color: var(--primary-light);
+}
+
+.todo-item.completed {
+    opacity: 0.7;
+}
+
+.todo-item.completed .todo-text {
+    text-decoration: line-through;
+    color: var(--text-medium);
+}
+
+.btn-toggle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+}
+
+.todo-text {
+    flex: 1;
+    font-weight: 500;
+    color: var(--text-dark);
+}
+
+/* Formula Widget */
+.formula-topics {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+    margin-bottom: 1.5rem;
+}
+
+.topic-btn {
+    padding: 0.5rem 1rem;
+    font-size: 0.9rem;
+    font-weight: 600;
+    border-radius: var(--border-radius-full);
+    background: var(--background-color);
+    color: var(--text-medium);
+    border: 1px solid var(--border-color);
+    transition: all var(--transition-fast);
+}
+
+.topic-btn:hover {
+    background: white;
+    color: var(--primary-color);
+    border-color: var(--primary-color);
+}
+
+.topic-btn.active {
+    background: var(--primary-color);
+    color: white;
+    border-color: var(--primary-color);
+    box-shadow: 0 4px 6px -1px rgba(13, 71, 161, 0.2);
+}
+
+.formula-display {
+    background: var(--background-color);
+    border-radius: var(--border-radius-md);
+    padding: 1.5rem;
+    border: 1px solid var(--border-color);
+}
+
+.formula-topic-title {
+    font-size: 1.1rem;
+    margin-bottom: 1.5rem;
+    color: var(--primary-dark);
+}
+
+.equation-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.equation-item {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.eq-title {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--text-medium);
+}
+
+.eq-box {
+    background: white;
+    padding: 1rem;
+    border-radius: var(--border-radius-md);
+    border-left: 4px solid var(--primary-light);
+    box-shadow: var(--shadow-sm);
+    overflow-x: auto;
+}
+
+.eq-box code {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: var(--text-dark);
+    white-space: nowrap;
+}
+
+@media (max-width: 992px) {
+    .dashboard-grid {
+        grid-template-columns: 1fr;
+    }
+}
